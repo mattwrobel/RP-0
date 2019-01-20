@@ -1009,7 +1009,7 @@
         "orphan": false,
         "rp0_conf": true,
         "spacecraft": "Atlas V (AJ-60A)",
-        "engine_config": "INTERNAL",
+        "engine_config": "AJ60A",
         "upgrade": false,
         "entry_cost_mods": "",
         "identical_part_name": "AJ-60A",
